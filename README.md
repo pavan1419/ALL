@@ -8,9 +8,6 @@
 ## Powerful programming made simple with C
 
 
-
----
-
 **Choose Topic :** 
 | [C Introduction](#c-introduction) | [My all C programs topic wise ](#my-all-c-programs-topic-wise)
 
