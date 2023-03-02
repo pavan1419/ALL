@@ -29,7 +29,7 @@ language.
 
 <code>Basic Syntax</code>
 
-```json
+```bash
 #include <stdio.h>
 
 int main()
